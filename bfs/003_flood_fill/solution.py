@@ -42,4 +42,3 @@ class Solution:
                         queue.append((nc, nc))
                         
         return image
-print(Solution)
